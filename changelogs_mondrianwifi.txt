@@ -1,7 +1,7 @@
 Device: Samsung Galaxy Tab Pro 8.4 (mondrianwifi)
 Device maintainer: Gigabyte
 
-::::::::::::Source Changelog.::::::::::::::
+------------Source Changelog.--------------
 ¶ Version Bumped to 6.1
 ¶ Merge tag 'android-10.0.0_r39
 ¶ Updater Is Back
@@ -23,6 +23,7 @@ Device maintainer: Gigabyte
 ¶ SystemUI: Always show LTE+/4G+ when applicable
 ¶ And as always Colt is more smooth & beautiful now
 
-::::::::::::Device Changelog.::::::::::::::
-Fixed App permissions.
+------------Device Changelog.--------------
+Fixed popup app permissions.
+Set miracast audio to maximum.
 Increased AOD brightness.
