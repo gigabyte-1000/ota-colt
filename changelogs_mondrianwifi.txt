@@ -2,7 +2,7 @@ Device: Samsung Galaxy Tab Pro 8.4 (mondrianwifi)
 Device maintainer: Gigabyte
 
 ------------Source Changelog.--------------
-::::::::::.Update v6.2.::::::::::::::
+
 * Version Bumped to v6.2 :) 
 * July security patch .
 * SIMs on/off toggle .

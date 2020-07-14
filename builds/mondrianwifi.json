@@ -3,10 +3,10 @@
     {
         "filename": "ColtOS-v6.2-mondrianwifi-20200713-Official.zip",
         "url": "https://sourceforge.net/projects/coltos/files/Kenzo/Mondrianwifi/ColtOS-v6.2-mondrianwifi-20200713-Official.zip/download",
-        "timestamp": 1694704755,
+        "timestamp": 1594704755,
         "md5sum": "7e250cbc0334743934cd0656ab707401",
         "size": 578692430,
-        "version": "v6.3",
+        "version": "v6.2",
         "romtype": "Official"
     }
   ]
