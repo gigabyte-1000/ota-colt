@@ -1,0 +1,10 @@
+ • Device Changelog:
+   * Miracast Fixed.
+   * BT Calls Fixed. 
+   * OTA Update Support.
+   * Fixed IR blaster.
+   * Fixed lags in screen video recording.
+   * Fixed and updated Dirac implementation.
+   * Added and adapted Advanced Controls 2.
+   * Other small device and kernel fixes.
+
