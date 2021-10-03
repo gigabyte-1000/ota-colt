@@ -1,0 +1,6 @@
+ • Device Changelog: 
+ * Initial Android 11 build    
+ * OTA Update Support.
+ * Fixed FaceUnlock
+ * Device and kernel fixes.
+ 
