@@ -1,13 +1,13 @@
 {
-   "datetime": 1632814879,
-   "filehash": "6862cc90e2a1c7b651bda56485351de4",
-   "filename": "ColtOS-11.0-v7.3.MARTINI-kenzo-Unofficial-20210928-0747.zip",
-   "id": "5a108e29966c08536a6402b673ae6ff4c50c1947fe7ffc8c67eeb1e0e32210b2",
-   "size": 776095921,
-   "url": "https://sourceforge.net/projects/gigabyte-roms/files/kenzo/Beta/ColtOS-11.0-v7.3.MARTINI-kenzo-Unofficial-20210928-0747.zip/download",
+   "datetime": 1633891650,
+   "filehash": "832c82be31cb5fbd2903fa5109fb9dda",
+   "filename": "ColtOS-11.0-v7.4.Tipsy-kenzo-Unofficial-20211010-1900.zip",
+   "id": "98050e890257e43284883af61c70d7892211bbc0d8b7d17d3615a46557bb0184",
+   "size": 781495775,
+   "url": "https://sourceforge.net/projects/gigabyte-roms/files/kenzo/ColtOS-11.0-v7.4.Tipsy-kenzo-Unofficial-20211010-1900.zip/download",
    "devicename": "Redmi Note 3 Pro",
    "maintainer": "Gigabyte",
-   "xdathread": "https://forum.xda-developers.com/t/rom-unofficial-coltos-7-3-kenzo-kate-sept-24-2021-11.4090359/",
+   "xdathread": "https://forum.xda-developers.com/t/4090359/",
    "version": "11.0"
 }
 

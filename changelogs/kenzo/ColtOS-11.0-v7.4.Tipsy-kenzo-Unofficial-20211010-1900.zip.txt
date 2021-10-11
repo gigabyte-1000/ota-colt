@@ -1,0 +1,56 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+              Changelog for October update
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ColtOS : v7.4 (Tipsy) 
+* Merged Oct Security Patch 'android-11.0.0_r46'
+* Fixed QS row columns (users was not able to set it to 2 or 1)
+* Fixed mismatched animation, transition values
+* Fixed power saver mode icon in L Style battery icon
+* Fixed Lockscreen layout thumbnails for some clocks
+* Fixed default color of navbar home icon
+* Fixed FC in Hotspot client manager
+* Improved QS Header Weather Image Layout 
+* Improvement in S Clock style
+* Improvement in default dialer and messaging apps
+* Improvement in QS clock and some Enhancements, now you can change its position (Need SystemUI restart)
+* Redesigned dark/light mode previews
+* Added OP like QS Panel
+* Added our own setupwizard based on LOS
+* Added toggle for QS Edit, Settings and Running services icon.
+* Added dismiss all button toggle
+* Added custom header image height offset user configurable
+* Added Big Circle and Big Dotted Circle battery icon styles
+* Added lockscreen bouncer from Android 12 Beta 2.
+* Added seekbar for Left/Right statusbar icon paddings
+* Added Signature spoofing
+* Added Status bar colors (Now you can set the colors for notification, battery icons and battery text
+* Added custom symbol near text on charging
+* Added notification header and clear all gravity customizations
+* Added Octavi and Shapeshift LS clock
+* Added support for pocket judge and pocket lock
+* Moved data usage info to footer
+* Updated some sounds from Oneplus
+
+PS : ColtOS A12 development is also started see you soon !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                       Notes
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Flash with Orangefox recovery
+- Dirty / Clean Flash 
+- NikGApps Basic is recommended!
+- Selinux Enforcing
+- Join https://t.me/coltkenzo for device related questions
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                       Bugs
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(Please report bugs on Clean Flash only!!!)
+-Minor Bugs:
+To enable Miracast, go to wireless display 
+(longpress the ScreenCast QS icon, click the menu icon (top right) and enable wireless display)
+you will have to connect/disconnect from this screen too, miracast disp. will not show up in the QS icon or quick popup.
+
+-Undetected bugs.
+You tell me, I can only test so much on my kenzo.
+Please have a logcat/bugreport ready if you wish to report a bug, this will be the only way to help track errors.
