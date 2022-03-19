@@ -1,0 +1,34 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+              Device Changelog 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Improve wifi stability.
+Reduced logcat spam.
+Tablet is wifi only, removed mobile options.
+Fix AOD support.
+-The AOD QS icon is reversed, AOD is portrait mode only since lock screen cannot be rotated.
+Other minor bug fixes.
+Added back QPGallery.
+Latest shared sources.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                       Notes
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Dirty / Clean Flash 
+- Opengapps Pico (32bit) is recommended!
+- Please clean flash this build if you encounter any problems.
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                       Bugs
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(Please report bugs on Clean Flash only!!!)
+-Minor Bugs:
+-To enable Miracast, go to wireless display 
+(longpress the ScreenCast QS icon, click the menu icon (top right) and enable wireless display)
+you will have to connect/disconnect from this screen too, miracast disp. will not show up in the QS icon or quick popup.
+
+-MHL support is minimal and very buggy.
+-Some UI settings don't play well (colt decorations) and can cause System UI crashes, looking into possible solutions.
+
+-Undetected bugs.
+You tell me, I can only test so much on my tablet.
+Please have a logcat/bugreport ready if you wish to report a bug.
