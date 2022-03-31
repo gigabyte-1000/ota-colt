@@ -1,0 +1,32 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+              Device Changelog 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Brought back thermal engine from stock.
+Fixed TcpSocketTracker crash.
+Added Hotword blobs.
+Fix logcat spam.
+Brought shared sources up to date.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                       Notes
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Flash with Orangefox recovery
+- Dirty / Clean Flash 
+- NikGApps Basic is recommended!
+- OpenGapps micro+ might require gapps-config.txt to exclude search 
+(if you get space issues)
+- Selinux Enforcing
+- Join https://t.me/coltkenzo for device related questions
+	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                       Bugs
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(Please report bugs on Clean Flash only!!!)
+-Minor Bugs:
+To enable Miracast, go to wireless display 
+(longpress the ScreenCast QS icon, click the menu icon (top right) and enable wireless display)
+you will have to connect/disconnect from this screen too, miracast disp. will not show up in the QS icon or quick popup.
+
+-Undetected bugs.
+You tell me, I can only test so much on my kenzo.
+Please have a logcat/bugreport ready if you wish to report a bug, this will be the only way to help track errors.
